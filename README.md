@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Daniel Harrod 🏆 | Applied AI/ML Student  
 
-🎓 **University of Arizona** Madter of Applied Science in Applied Artificial Intelligence *(Expected: Dec 2025)*  
+🎓 **University of Arizona** Masters of Applied Science in Applied Artificial Intelligence *(Expected: Dec 2025)*  
 📜 **Certifications:** Data Analytics Programming Certificate (Sep 2021 – Mar 2022)  
 📍 **GitHub:** [Daniel-Harrod13](https://github.com/Daniel-Harrod13) | **LinkedIn:** [Daniel Harrod](http://www.linkedin.com/in/daniel-harrod2019)  
 ✉️ **Email:** [Harrod@arizona.edu](mailto:Harrod@arizona.edu)  
