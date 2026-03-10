@@ -38,13 +38,13 @@ researcher = {
 
 ---
 
-## 🎯 Research Interests
+## Research Interests
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🏥 Healthcare AI**
+**Healthcare AI**
 - Medical image segmentation & diagnostic pipelines
 - Clinical NLP — physician dialogue, treatment modeling
 - Drug outcome analysis on real patient cohorts
@@ -53,7 +53,7 @@ researcher = {
 </td>
 <td valign="top" width="50%">
 
-**🛡️ Defense & Dual-Use Systems**
+**Defense & Dual-Use Systems**
 - Edge-deployable computer vision (SWaP-C constrained)
 - Neuromorphic / spiking architectures for low-power inference
 - Autonomous surveillance, object detection & tracking
@@ -64,7 +64,7 @@ researcher = {
 <tr>
 <td valign="top" width="50%">
 
-**🧬 ML Research**
+**ML Research**
 - Transformer architectures — ViT, SegFormer, decoder-only LLMs
 - Transfer learning & domain adaptation
 - Multimodal pipelines (vision + language)
@@ -73,7 +73,7 @@ researcher = {
 </td>
 <td valign="top" width="50%">
 
-**⚙️ Systems & Infrastructure**
+**Systems & Infrastructure**
 - Embedded ML on NVIDIA Jetson and ARM targets
 - Real-time inference pipeline design
 - Experiment tracking, reproducibility & MLOps
@@ -85,7 +85,7 @@ researcher = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -128,10 +128,10 @@ researcher = {
 
 ---
 
-## 🔬 Featured Research & Projects
+## Featured Research & Projects
 
 <details open>
-<summary><b>🧠 Neuromorphic Object Detection — VSI Lab, University of Arizona</b> &nbsp;<code>Active Research</code></summary>
+<summary><b>Neuromorphic Object Detection — VSI Lab, University of Arizona</b> &nbsp;<code>Active Research</code></summary>
 
 <br/>
 
@@ -144,7 +144,7 @@ Real-time object detection pipeline using **Spiking Neural Networks** (SpikingJe
 ---
 
 <details open>
-<summary><b>🔗 <a href="https://github.com/Daniel-Harrod13/Lang_Chain">LangChain Projects</a></b> &nbsp;<code>LLM Engineering</code></summary>
+<summary><b><a href="https://github.com/Daniel-Harrod13/Lang_Chain">LangChain Projects</a></b> &nbsp;<code>LLM Engineering</code></summary>
 
 <br/>
 
@@ -157,7 +157,7 @@ Hands-on workspace for building production-style **LLM applications** with LangC
 ---
 
 <details open>
-<summary><b>🕸️ <a href="https://github.com/Daniel-Harrod13/Lang_Graph">LangGraph Agent Orchestration</a></b> &nbsp;<code>LLM Agents · In Progress</code></summary>
+<summary><b><a href="https://github.com/Daniel-Harrod13/Lang_Graph">LangGraph Agent Orchestration</a></b> &nbsp;<code>LLM Agents · In Progress</code></summary>
 
 <br/>
 
@@ -170,7 +170,7 @@ Exploring **LangGraph** for building stateful, multi-step agent systems with bra
 ---
 
 <details open>
-<summary><b>📊 <a href="https://github.com/Daniel-Harrod13/Data_Science">Data Science Projects</a></b> &nbsp;<code>ML · Statistical Analysis</code></summary>
+<summary><b><a href="https://github.com/Daniel-Harrod13/Data_Science">Data Science Projects</a></b> &nbsp;<code>ML · Statistical Analysis</code></summary>
 
 <br/>
 
@@ -183,7 +183,7 @@ Portfolio of end-to-end data science projects: **IBM Employee Attrition** predic
 ---
 
 <details open>
-<summary><b>🤖 <a href="https://github.com/Daniel-Harrod13/AI-ML">AI & Machine Learning Portfolio</a></b> &nbsp;<code>IoT · Anomaly Detection</code></summary>
+<summary><b><a href="https://github.com/Daniel-Harrod13/AI-ML">AI & Machine Learning Portfolio</a></b> &nbsp;<code>IoT · Anomaly Detection</code></summary>
 
 <br/>
 
@@ -196,7 +196,7 @@ Collection of AI/ML projects including **environmental sensor telemetry analysis
 ---
 
 <details open>
-<summary><b>🏗️ <a href="https://github.com/Daniel-Harrod13/Data_Engineering">Data Engineering</a></b> &nbsp;<code>Pipelines · In Progress</code></summary>
+<summary><b><a href="https://github.com/Daniel-Harrod13/Data_Engineering">Data Engineering</a></b> &nbsp;<code>Pipelines · In Progress</code></summary>
 
 <br/>
 
@@ -208,7 +208,7 @@ Workspace for building and documenting **data engineering** projects — ETL pip
 
 ---
 
-## 📊 Stats & Activity
+## Stats & Activity
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Workspace for building and documenting **data engineering** projects — ETL pip
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 **M.S. Applied Artificial Intelligence** — University of Arizona *(Dec 2025)*
 Research track: Neuromorphic computing, medical AI, edge inference systems
