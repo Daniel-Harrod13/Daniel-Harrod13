@@ -212,8 +212,13 @@ Workspace for building and documenting **data engineering** projects — ETL pip
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniel-Harrod13&show_icons=true&bg_color=0a0f1c&border_color=1e3a5f&title_color=00d4ff&icon_color=00d4ff&text_color=8b9fc5&count_private=true&hide_border=false" />
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniel-Harrod13&layout=compact&bg_color=0a0f1c&border_color=1e3a5f&title_color=00d4ff&text_color=8b9fc5&hide_border=false" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel-Harrod13&theme=2077" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daniel-Harrod13&theme=2077" />
+
+<br/>
+
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Harrod13&theme=2077" />
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daniel-Harrod13&theme=2077&utcOffset=-7" />
 
 <br/>
 
