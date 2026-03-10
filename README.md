@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=220&section=header&text=Daniel%20Harrod&fontSize=58&fontColor=64ffda&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Applied%20AI&descSize=20&descAlignY=62&descColor=8892b0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,50:0d1b2a,100:1b2838&height=220&section=header&text=Daniel%20Harrod&fontSize=58&fontColor=00d4ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Applied%20AI&descSize=20&descAlignY=62&descColor=8b9fc5" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&random=false&width=620&lines=Building+AI+for+high-stakes+domains;Healthcare+AI+%7C+Defense+Tech+%7C+Edge+Inference;Spiking+Neural+Networks+%2B+Neuromorphic+Systems;LLMs+%E2%86%92+Clinical+%26+Domain-Specific+Applications;Applied+Research+%E2%86%92+Real-World+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=Building+AI+systems+that+ship+to+production;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Healthcare+AI+%7C+Defense+Tech+%7C+Edge+Inference;Data+Science+%2B+ML+Engineering;Applied+Research+%E2%86%92+Real-World+Impact)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Harrod13&style=for-the-badge&color=64ffda&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Daniel-Harrod13)
+[![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Harrod13&style=for-the-badge&color=00d4ff&labelColor=0a0f1c&label=PROFILE+VIEWS)](https://github.com/Daniel-Harrod13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Harrod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daniel-harrod2019)
 [![Email](https://img.shields.io/badge/Email-harrod@arizona.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harrod@arizona.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-Daniel--Harrod13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel-Harrod13)
@@ -25,9 +25,10 @@ researcher = {
     "lab"       : "Vision, Systems & Intelligence Lab — University of Arizona",
     "hardware"  : ["NVIDIA Jetson", "Edge Devices", "Embedded ML"],
     "currently" : [
+        "LLM application development with LangChain & LangGraph",
         "Spiking Neural Networks for real-time edge detection",
         "Medical image segmentation with transformer architectures",
-        "LLMs adapted to clinical & domain-specific corpora",
+        "Data science & ML engineering across multiple domains",
     ],
     "seeking"   : "Applied research roles in healthcare AI or defense-adjacent tech",
 }
@@ -102,6 +103,11 @@ researcher = {
 ![XGBoost](https://img.shields.io/badge/XGBoost-189E44?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**LLM Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1b2a?style=for-the-badge&logo=langchain&logoColor=00d4ff)
+
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -138,39 +144,65 @@ Real-time object detection pipeline using **Spiking Neural Networks** (SpikingJe
 ---
 
 <details open>
-<summary><b>🫁 <a href="https://github.com/Daniel-Harrod13/TB_Image">Tuberculosis X-ray Segmentation</a></b> &nbsp;<code>Healthcare AI</code></summary>
+<summary><b>🔗 <a href="https://github.com/Daniel-Harrod13/Lang_Chain">LangChain Projects</a></b> &nbsp;<code>LLM Engineering</code></summary>
 
 <br/>
 
-End-to-end automated diagnostic pipeline for TB detection from chest X-rays. Implemented **SegFormer** (a hierarchical transformer for semantic segmentation) in **PyTorch**, covering full preprocessing from raw imaging data through model inference and region localization. Targets the challenge of resource-limited diagnostic environments where radiologist bandwidth is constrained.
+Hands-on workspace for building production-style **LLM applications** with LangChain. Includes a local-document **RAG baseline** with indexing, retrieval, and source-cited answers. Ongoing experiments in **agent workflows**, tool use, prompt engineering, and evaluation — bridging research understanding with real engineering.
 
-`PyTorch` `SegFormer` `Transformers` `Medical Imaging` `Semantic Segmentation` `DICOM` `Healthcare AI`
+`LangChain` `RAG` `OpenAI API` `Vector Search` `Agent Workflows` `Prompt Engineering` `Python`
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🎵 <a href="https://github.com/Daniel-Harrod13/spotify_sentiment_analysis">Spotify Sentiment Analysis + GPT Review Engine</a></b> &nbsp;<code>NLP · LLM Integration</code></summary>
+<summary><b>🕸️ <a href="https://github.com/Daniel-Harrod13/Lang_Graph">LangGraph Agent Orchestration</a></b> &nbsp;<code>LLM Agents · In Progress</code></summary>
 
 <br/>
 
-NLP pipeline combining **TextBlob**, **NLTK**, and **GPT-3.5 API** to perform sentiment analysis on music metadata and auto-generate contextual reviews. Demonstrates production-style LLM integration, prompt engineering, and theming custom visualizations (Matplotlib/Seaborn) to match Spotify's design language.
+Exploring **LangGraph** for building stateful, multi-step agent systems with branching logic and tool orchestration. Focused on graph-based control flows for complex LLM-driven pipelines beyond simple chain-of-thought — targeting reliable agentic systems for domain-specific applications.
 
-`OpenAI API` `NLP` `NLTK` `TextBlob` `GPT-3.5` `Sentiment Analysis` `Data Viz`
+`LangGraph` `LLM Agents` `Multi-Step Reasoning` `Graph Workflows` `Python`
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🏥 Clinical Transcription & Drug Treatment Analysis — UAB School of Medicine</b> &nbsp;<code>Clinical NLP · Applied Research</code></summary>
+<summary><b>📊 <a href="https://github.com/Daniel-Harrod13/Data_Science">Data Science Projects</a></b> &nbsp;<code>ML · Statistical Analysis</code></summary>
 
 <br/>
 
-Built a **Python transcription pipeline** processing physician Zoom recordings into structured clinical text for downstream NLP. Separately developed an **R Shiny + Plotly** interactive dashboard analyzing COVID-19 drug treatment outcomes from real patient cohort data — bridging clinical research and applied data science.
+Portfolio of end-to-end data science projects: **IBM Employee Attrition** prediction with full ML pipelines and deployable artifacts, **IBM Predictive Maintenance** for industrial asset failure forecasting with time-aware validation, and **Phenotypic Association Analysis** using contingency-table inference in R with publication-style visualizations.
 
-`Python` `Speech Processing` `Clinical NLP` `R Shiny` `Plotly` `Seaborn` `EDA` `COVID-19`
+`Python` `R` `Scikit-Learn` `Pandas` `Quarto` `ggplot2` `Joblib` `EDA`
+
+</details>
+
+---
+
+<details open>
+<summary><b>🤖 <a href="https://github.com/Daniel-Harrod13/AI-ML">AI & Machine Learning Portfolio</a></b> &nbsp;<code>IoT · Anomaly Detection</code></summary>
+
+<br/>
+
+Collection of AI/ML projects including **environmental sensor telemetry analysis** — processing 132K IoT records for time series analysis, anomaly detection, and predictive modeling across temperature, humidity, and environmental metrics. Demonstrates real-world data pipeline design from raw sensor streams to actionable insights.
+
+`Python` `Scikit-Learn` `Pandas` `Jupyter` `Time Series` `Anomaly Detection` `IoT`
+
+</details>
+
+---
+
+<details open>
+<summary><b>🏗️ <a href="https://github.com/Daniel-Harrod13/Data_Engineering">Data Engineering</a></b> &nbsp;<code>Pipelines · In Progress</code></summary>
+
+<br/>
+
+Workspace for building and documenting **data engineering** projects — ETL pipelines, data modeling, and infrastructure patterns. Focused on the engineering backbone that makes ML systems production-ready: reliable data ingestion, transformation, and serving at scale.
+
+`Data Engineering` `ETL` `Pipeline Design` `Python`
 
 </details>
 
@@ -180,16 +212,16 @@ Built a **Python transcription pipeline** processing physician Zoom recordings i
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Harrod13&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=64ffda&icon_color=64ffda&text_color=8892b0&count_private=true&hide_border=false" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Harrod13&layout=compact&bg_color=0d1117&border_color=30363d&title_color=64ffda&text_color=8892b0&hide_border=false" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Harrod13&show_icons=true&bg_color=0a0f1c&border_color=1e3a5f&title_color=00d4ff&icon_color=00d4ff&text_color=8b9fc5&count_private=true&hide_border=false" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Harrod13&layout=compact&bg_color=0a0f1c&border_color=1e3a5f&title_color=00d4ff&text_color=8b9fc5&hide_border=false" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-Harrod13&theme=dark&background=0d1117&border=30363d&ring=64ffda&fire=ff6b35&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-Harrod13&theme=dark&background=0a0f1c&border=1e3a5f&ring=00d4ff&fire=0070f3&currStreakLabel=00d4ff&sideLabels=8b9fc5&dates=8b9fc5&currStreakNum=ccd6f6&sideNums=ccd6f6)](https://git.io/streak-stats)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Harrod13&bg_color=0d1117&color=64ffda&line=64ffda&point=ff6b35&area=true&area_color=112240&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Harrod13&bg_color=0a0f1c&color=00d4ff&line=00d4ff&point=0070f3&area=true&area_color=0d1b2a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -197,7 +229,7 @@ Built a **Python transcription pipeline** processing physician Zoom recordings i
 
 ## 🎓 Academic Background
 
-**M.S. Applied Artificial Intelligence** — University of Arizona *(Expected Dec 2025)*
+**M.S. Applied Artificial Intelligence** — University of Arizona *(Dec 2025)*
 Research track: Neuromorphic computing, medical AI, edge inference systems
 
 **Data Analytics Programming Certificate** *(Sep 2021 – Mar 2022)*
@@ -206,13 +238,13 @@ Research track: Neuromorphic computing, medical AI, edge inference systems
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Daniel-Harrod13?style=for-the-badge&logo=github&color=64ffda&labelColor=0d1117)](https://github.com/Daniel-Harrod13?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/Daniel-Harrod13?style=for-the-badge&logo=github&color=ff6b35&labelColor=0d1117)](https://github.com/Daniel-Harrod13)
+[![GitHub followers](https://img.shields.io/github/followers/Daniel-Harrod13?style=for-the-badge&logo=github&color=00d4ff&labelColor=0a0f1c)](https://github.com/Daniel-Harrod13?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Daniel-Harrod13?style=for-the-badge&logo=github&color=0070f3&labelColor=0a0f1c)](https://github.com/Daniel-Harrod13)
 
 <br/>
 
 *"The measure of intelligence is the ability to change."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,60:0a192f,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2838,60:0d1b2a,100:0a0f1c&height=120&section=footer" width="100%" />
 
 </div>
