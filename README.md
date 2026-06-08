@@ -232,12 +232,7 @@ Workspace for building and documenting **data engineering** projects — ETL pip
 
 ---
 
-## Academic Background
 
-**M.S. Applied Artificial Intelligence** — University of Arizona *(Dec 2025)*
-Research track: Neuromorphic computing, medical AI, edge inference systems
-
-**Data Analytics Programming Certificate** *(Sep 2021 – Mar 2022)*
 
 ---
 
