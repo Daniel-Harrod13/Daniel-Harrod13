@@ -6,7 +6,7 @@
 
 I build reproducible analytical workflows that turn complex data into useful decisions. My work spans causal inference, experimentation, machine learning, threat analysis, and security-focused reporting—with an emphasis on clear evidence, responsible practice, and systems that can be maintained.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Harrod-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daniel-harrod2019)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Harrod-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-harrod2019)
 [![Email](https://img.shields.io/badge/Email-harrod%40arizona.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Harrod@arizona.edu)
 
 </div>
